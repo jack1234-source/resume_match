@@ -200,18 +200,3 @@ resume-match-ai/
 4. Show the ranking table and open both a strong and a weaker candidate.
 5. Point out matched/missing skills, experience/education evidence, reasons and similarity engine.
 6. Open `/docs`, run a health check and describe how the database and API endpoints work.
-
-## GitHub submission
-
-Create a new public or private repository, then from this project root:
-
-```bash
-git init
-git add .
-git commit -m "Build AI resume matching and ranking prototype"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repository>.git
-git push -u origin main
-```
-
-Do not commit `.env`, local databases, actual resumes or other personal data.
