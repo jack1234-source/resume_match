@@ -1,0 +1,15 @@
+Backend Software Engineer
+
+We are looking for a Backend Software Engineer to design, build and maintain reliable backend services and APIs.
+
+Required qualifications and skills:
+- 4+ years of professional backend development experience.
+- Strong hands-on experience with Java and Spring Boot.
+- Design and development of REST APIs and microservices.
+- Good SQL knowledge and experience with PostgreSQL.
+- Working knowledge of Docker and AWS cloud services.
+- Bachelor's degree in Computer Science, Information Technology or a related field.
+
+Preferred: Redis, Kubernetes, CI/CD, Linux, Agile/Scrum and automated testing.
+
+Responsibilities include writing maintainable code, reviewing pull requests, debugging production issues, collaborating with frontend and product teams, and improving service performance and reliability.
